@@ -1,0 +1,29 @@
+#leftwebsite {
+  top: 20px;
+  left: 0;
+  width: 100px;
+}
+
+#rightwebsite {
+	top: 45px;
+	left: 0;
+	width: 100px;
+}
+
+.dropdown {
+	color: black;
+	position: absolute;
+	border: outset;
+	border-color: lightgrey;
+}
+
+.readingbd {
+	background-color: bisque;
+	font-family: monospace;
+	font-size: 15px;
+	border-block: outset;
+}
+
+.docdiv {
+	text-align: center;
+}
