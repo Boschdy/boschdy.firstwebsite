@@ -10,20 +10,68 @@
 	width: 100px;
 }
 
+#sd {
+	margin-left: 50px;
+	margin-right: 50px;
+	color: limegreen;
+	background-color: black;
+	height: 73px;
+}
+
+#tt {
+	margin-left: 1100px;
+	width: 110px;
+	text-align: center;
+}
+
+#yt {
+	margin-left: 870px;
+	width: 175px;
+		text-align: center;
+}
+
+#insta {
+	margin-left: 700px;
+	width: 100px;
+	text-align: center;
+}
+
+body{
+	background-image: url(background.png);
+}
+
 .dropdown {
-	color: black;
+	color: limegreen;
 	position: absolute;
 	border: outset;
 	border-color: lightgrey;
+	border-radius: 10px;
+	margin-left: 75px;
+	margin-top: 15px;
 }
 
-.readingbd {
-	background-color: bisque;
+.headline {
+	color: limegreen;
+	text-align: center;
+	background-color: black;
 	font-family: monospace;
 	font-size: 15px;
 	border-block: outset;
+	border-bottom: none;
+	border-radius: 5px;
+	margin-left: 50px;
+	margin-right: 50px;
 }
 
-.docdiv {
+.bodydiv {
+	color: limegreen;
 	text-align: center;
+	background-color: black;
+	font-family: monospace;
+	font-size: 15px;
+	border-block: outset;
+	height: 700px;
+	margin-left: 50px;
+	margin-right: 50px;
 }
+
